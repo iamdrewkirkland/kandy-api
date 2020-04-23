@@ -1,0 +1,26 @@
+{
+  "products": [],
+  "locations": [
+    {
+      "name": "Nashville East",
+      "address":"450 Gallatin Ave",
+      "sqft":1500,
+      "accessibility":"false"
+    },
+    {
+      "name": "Nashville North",
+      "address":"788 Main St",
+      "sqft":2000,
+      "accessibility":"false"
+    },
+    {
+      "name": "Nashville West",
+      "address":"90 West Ave",
+      "sqft":1750,
+      "accessibility":"false"
+    }
+  ],
+  "employees": [],
+  "productTypes": [],
+  "customers": []
+}
