@@ -1,26 +1,76 @@
 {
-  "products": [],
   "locations": [
     {
       "name": "Nashville East",
-      "address":"450 Gallatin Ave",
-      "sqft":1500,
+      "address": "450 Gallatin Ave",
+      "sqft": 1500,
       "accessibility": false
     },
     {
       "name": "Nashville North",
-      "address":"788 Main St",
-      "sqft":2000,
+      "address": "788 Main St",
+      "sqft": 2000,
       "accessibility": false
     },
     {
       "name": "Nashville West",
-      "address":"90 West Ave",
-      "sqft":1750,
+      "address": "90 West Ave",
+      "sqft": 1750,
       "accessibility": true
     }
   ],
+  "products": [
+    {
+      "name": "LifeSavers",
+      "id": 1,
+      "productTypeId": 1,
+      "price": 0.5
+    },
+    {
+      "name": "Werther's Original",
+      "id": 2,
+      "productTypeId": 1,
+      "price": 1
+    },
+    {
+      "name": "Black Forest Gummy Bears",
+      "id": 3,
+      "productTypeId": 3,
+      "price": 1.5
+    },
+    {
+      "name": "Sour Punch Straws",
+      "id": 4,
+      "productTypeId": 3,
+      "price": 1.5
+    },
+    {
+      "name": "Snickers",
+      "id": 5,
+      "productTypeId": 2,
+      "price": 1
+    },
+    {
+      "name": "Butterfinger",
+      "id": 6,
+      "productTypeId": 2,
+      "price": 1
+    }
+  ],
+  "productTypes": [
+    {
+      "name": "Hard Candy",
+      "id": 1
+    },
+    {
+      "name": "Chocolate",
+      "id": 2
+    },
+    {
+      "name": "Gummy Candy",
+      "id": 3
+    }
+  ],
   "employees": [],
-  "productTypes": [],
   "customers": []
 }
